@@ -1,0 +1,90 @@
+font-family
+Dela-Gothic: <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap" rel="stylesheet">
+
+font-family: "Dela Gothic One", sans-serif;
+
+monsterat: <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+font-family: "Montserrat", sans-serif;
+
+--font-size-h1: 3.5rem;
+--font-size-h2: 3rem;
+--font-size-h3: 2rem;
+--font-size-h4: 1.5rem;
+
+--font-size-text-body-b1: 1.125rem;
+--font-size-text-body-b2: 1rem;
+--font-size-text-body-b3: 0.875rem;
+--font-size-text-body-b4: 0.75rem;
+
+--font-size-button-text-btn1:1.125rem;
+--font-size-button-text-btn2:1rem;
+--font-size-link-text:0.875rem;
+--font-size-link-text:0.75rem;
+
+--line-height-h1:56px;
+--line-height-h2:48px;
+--line-height-h3:32px;
+--line-height-h4:24px;
+
+--line-height-text-body-b1: 25px;
+--line-height-text-body-b2: 22px;
+--line-height-text-body-b3: 20px;
+--line-height-text-body-b4: 17px;
+
+--line-height-button-text-btn1: 25px;
+--line-height-button-text-btn2: 22px;
+--line-height-link-text: 20px;
+--line-height-link-text: 20px;
+
+--fonts-weight-normal-400: 400;
+--fonts-weight-semi-bold-600: 600;
+--fonts-weight-bold-700: 700;
+
+
+--primary-colors-cyan-dark: #2b788b;
+--primary-colors-cyan-light: #c3dce3;
+--primary-colors-pink-dark: #945089;
+--primary-colors-pink-light: #f2d4dc;
+--primary-colors-dark: #000;
+--primary-colors-white: #fff;
+--primary-colors-grey-light: #f6f5f4;
+--primary-colors-grey-medium: #e0e0e0;
+--primary-colors-grey-icon: #bababa;
+--primary-colors-grey-dark: #585858;
+
+--secondary-colors-cyan: #5996a5;
+--secondary-colors-green: #639b6d;
+--secondary-colors-pink: #a15993;
+--secondary-colors-red: #a95151;
+--secondary-colors-yellow: #c4a24c;
+--secondary-colors-orange: #cb5b43;
+
+
+--/ header ---/
+GlobalTalk
+
+Home
+Textbook
+Statistics
+Games
+Alex
+Sign Out →
+
+
+E-COURSE PLATFORM
+
+Learning and
+teaching online,
+made easy.
+
+Practice your English and learn new things with the platform.
+
+
+
+600
+2
